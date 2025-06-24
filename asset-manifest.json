@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/calandar_task_app/static/css/main.8d1327b8.css",
+    "main.js": "/calandar_task_app/static/js/main.647900f9.js",
+    "static/js/453.96453769.chunk.js": "/calandar_task_app/static/js/453.96453769.chunk.js",
+    "index.html": "/calandar_task_app/index.html",
+    "main.8d1327b8.css.map": "/calandar_task_app/static/css/main.8d1327b8.css.map",
+    "main.647900f9.js.map": "/calandar_task_app/static/js/main.647900f9.js.map",
+    "453.96453769.chunk.js.map": "/calandar_task_app/static/js/453.96453769.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d1327b8.css",
+    "static/js/main.647900f9.js"
+  ]
+}
